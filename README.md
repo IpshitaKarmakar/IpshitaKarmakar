@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ipshita 👋
 
-<!--
-**IpshitaKarmakar/IpshitaKarmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ NIT Arunachal Pradesh
+💡 Interested in Data Science, AI & Analytics
+📊 Skilled in Python, Pandas, NumPy, Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Documate AI (RAG-based chatbot using LangChain, Qdrant, Ollama and Docker)
+* Data Analysis & Machine Learning Projects (EDA, visualization, predictive models)
+
+## 🌱 Currently Learning
+
+* Data Analytics 
+* Open Source Contribution
+* Advanced Machine Learning
+
+## 🛠 Tools & Technologies
+
+* Python, Pandas, NumPy
+* Scikit-learn
+* SQL, Git, GitHub
+
+## 📫 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/ipshita-karmakar-0a9371260/
+* Email: ipshitakarmakar21@gmail.com
