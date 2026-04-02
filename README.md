@@ -7,6 +7,7 @@
 ## 🚀 Projects
 
 * Documate AI (RAG-based chatbot using LangChain, Qdrant, Ollama and Docker)
+* AutoInsight: E-Commerce Customer Analytics & Revenue Prediction
 * Data Analysis & Machine Learning Projects (EDA, visualization, predictive models)
 
 ## 🌱 Currently Learning
